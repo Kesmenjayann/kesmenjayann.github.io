@@ -19,6 +19,9 @@
  */
 
 // ** Database settings - You can get this info from your web host ** //
+define('WP_SITEURL', 'https://kesmenjayann.github.io');
+define('WP_HOME', 'https://kesmenjayann.github.io');
+
 /** The name of the database for WordPress */
 define( 'DB_NAME', 'kesmenja' );
 
